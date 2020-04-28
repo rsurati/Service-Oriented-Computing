@@ -1,0 +1,11 @@
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\Blog_project.dll.config
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\Blog_project.dll
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\Blog_project.pdb
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\EntityFramework.dll
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\EntityFramework.xml
+D:\Sem-6\SOC\Blog_project\Blog_project\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sem-6\SOC\Blog_project\Blog_project\obj\Debug\Blog_project.csproj.CopyComplete
+D:\Sem-6\SOC\Blog_project\Blog_project\obj\Debug\Blog_project.dll
+D:\Sem-6\SOC\Blog_project\Blog_project\obj\Debug\Blog_project.pdb
+D:\Sem-6\SOC\Blog_project\Blog_project\obj\Debug\Blog_project.csprojAssemblyReference.cache
